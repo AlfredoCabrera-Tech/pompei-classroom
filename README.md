@@ -24,19 +24,19 @@ This app is based on 4 important components that can explain its functionality:
 
 1. **Authorization.**
    
-  This means each "portal" is for individual use. This is not meant to be a social network, but a platform centralize and organize the workload in an effective manner. 
+   This means each "portal" is for individual use. This is not meant to be a social network, but a platform centralize and organize the workload in an effective manner. 
 
 2. **CRUD app.**
    
-  CRUD stands for Create, Read, Update, and Delete. This means the teachers can manipulate and manage each homework's content. Every new homework they create and every modification they make persists in the database; every one they delete is deleted permanently too; and, while students can access only their corresponding homework according to their current grade, teachers can access any of the items they have created themselves.
+   CRUD stands for Create, Read, Update, and Delete. This means the teachers can manipulate and manage each homework's content. Every new homework they create and every modification they make persists in the database; every one they delete is deleted permanently too; and, while students can access only their corresponding homework according to their current grade, teachers can access any of the items they have created themselves.
 
 3. **Mark as Done Utility.**
    
-  Taking into account the main objectives of this app ("to keep track, manage and organize..."), one big aspect needed by students is the ability to mark which items on the list are done, and having it be easily identifiable.
+   Taking into account the main objectives of this app ("to keep track, manage and organize..."), one big aspect needed by students is the ability to mark which items on the list are done, and having it be easily identifiable.
 
 4. **Pomodoro Timer.**
-  
-  The 'Pomodoro Technique' is a time management strategy built around the idea of scheduling rest into your workflow as a way to keep your mind focused and consequently optimizing the productivity cycle.
+   
+   The 'Pomodoro Technique' is a time management strategy built around the idea of scheduling rest into your workflow as a way to keep your mind focused and consequently optimizing the productivity cycle.
 
 ## How It Was Made
 
@@ -75,6 +75,8 @@ By using ExpressJS, this application was done in a very efficient and streamline
 - The teacher will have the ability to use "tags" to mark their homeworks based on subjects and the student will be able sort them out using this parameter in future revisions.
 
 - The user will have the ability to search and filter through the homeworks list in future revisions.
+
+- Due dates and other calendar features will be added in future revisions.
 
 ## Lessons Learned
 
