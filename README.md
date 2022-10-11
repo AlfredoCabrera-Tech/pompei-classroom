@@ -4,7 +4,7 @@ This is a public version of the full-stack app designed for the Nuestra Señora 
 
 An excellent tool for teachers, students, and even parents; to keep track, manage and organize the academic workload and homework status of each student based on their current grade.
 
-**Live site URL:**  [Here](https://nerd-songwriter.vercel.app)
+**Live site URL:**  [Here](https://pompei-classroom.vercel.app)
 
 ![App Screenshot](./screenshot1.png)
 
